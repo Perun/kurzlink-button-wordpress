@@ -3,9 +3,9 @@ Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück
 
 Seit WordPress gibt es den Kurzlink-Button in wordPress nicht mehr. Damit konnte man längere URLs, wie zum Beispiel:
 
-https://www.vladimir-simovic.de/2017/06/6-monate-chromebook-ein-erfahrungsbericht/ in 
+https://www.[...].de/2017/06/manchmal-sehr-langer-titel-des-blogartikels/ in 
 
-https://www.vladimir-simovic.de/?p=165 "umwandeln".
+https://www.[...].de/?p=123 "umwandeln".
 
 Es wird natürlich nichts umgewandelt. Es wird lediglich der nicht-sprechende Permalink angezeigt, der von WP im Hintergrund eh generiert wird und üblicherweise auf die längere URL weiterleitet.
 
