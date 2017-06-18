@@ -1,5 +1,6 @@
-# kurzlink-button-wordpress
-Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück
+# Kurzlink-Button in WordPress
+
+Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück, der seit der Version 4.4 "entfernt" wurde.
 
 Seit WordPress gibt es den Kurzlink-Button in wordPress nicht mehr. Damit konnte man längere URLs, wie zum Beispiel:
 
