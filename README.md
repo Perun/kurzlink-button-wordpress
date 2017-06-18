@@ -9,7 +9,7 @@ https://www.[...].de/?p=123 "umwandeln".
 
 Es wird natürlich nichts umgewandelt. Es wird lediglich der nicht-sprechende Permalink angezeigt, der von WP im Hintergrund eh generiert wird und üblicherweise auf die längere URL weiterleitet.
 
-Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in Büchern oder zeitschriften und da ist es komfortabler wenn so ein Button aktiv ist.
+Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in Büchern oder Zeitschriften und da ist es komfortabler wenn so ein Button aktiv ist.
 
 # Changelog #
 - 1.0.1 (18. Juni 2017)
