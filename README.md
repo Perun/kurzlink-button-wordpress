@@ -1,6 +1,6 @@
 # Kurzlink-Button in WordPress
 
-Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück, der seit der Version 4.4 "entfernt" wurde.
+Zaubert den Kurzlink-Button [oberhalb des Editors](https://www.perun.net/2015/12/14/wordpress-4-4-kurzlink-button-zurueckholen/ "Siehe auch") in WordPress wieder zurück, der seit der Version 4.4 "entfernt" wurde.
 
 Seit WordPress gibt es den Kurzlink-Button in wordPress nicht mehr. Damit konnte man längere URLs, wie zum Beispiel:
 
