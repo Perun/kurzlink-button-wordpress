@@ -12,7 +12,13 @@ Es wird natürlich nichts umgewandelt. Es wird lediglich der nicht-sprechende Pe
 
 Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in Büchern oder Zeitschriften und da ist es komfortabler wenn so ein Button aktiv ist.
 
+Einfach den entpackten *kurzlink-button-wordpress*-Ordner nach */wp-content/plugins/* hochladen und im Backend das Plugin aktivieren.
+
 # Changelog #
+
+- 1.0.2 (18. Juni 2017)
+  - kleinere Anpassungen an den readme-Dateien
+
 - 1.0.1 (18. Juni 2017)
   - readme.txt nachgereicht und Meta-Info in die Plugin-Datei hinzugefügt
 
