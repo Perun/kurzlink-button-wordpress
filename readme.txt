@@ -4,7 +4,7 @@ Donate link: http://www.perun.net
 Tags: kurzlink, shortlink
 Requires at least: 4.4
 Tested up to: 4.8
-Stable Tag: 1.0.0
+Stable Tag: 1.0.1
 
 Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück
 
@@ -26,6 +26,10 @@ Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in
 
 == Change log ==
 
-= 1.0.0 (18. Juni 2017) =
+= 1.0.1 (18. Juni 2017) =
+
+* readme.txt nachgereicht und Meta-Informationen in die Plugin-Datei hinzugefügt (GitHub vw. WP) 
+
+= 1.0.0 (17. Juni 2017) =
 
 * Erste Veröffentlichung
