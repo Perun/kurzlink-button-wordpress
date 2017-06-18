@@ -12,5 +12,8 @@ Es wird natürlich nichts umgewandelt. Es wird lediglich der nicht-sprechende Pe
 Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in Büchern oder zeitschriften und da ist es komfortabler wenn so ein Button aktiv ist.
 
 # Changelog #
+- 1.0.1 (18. Juni 2017)
+  - readme.txt nachgereicht und Meta-Info in die Plugin-Datei hinzugefügt
+
 - 1.0.0
   - Erste Veröffentlichung
