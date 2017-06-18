@@ -26,6 +26,10 @@ Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in
 
 == Changelog ==
 
+= 1.0.3 (19. Juni 2017) =
+
+* kleinere Anpassungen an den readme-Dateien
+
 = 1.0.2 (18. Juni 2017) =
 
 * kleinere Anpassungen an den readme-Dateien
