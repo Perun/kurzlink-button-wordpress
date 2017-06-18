@@ -24,7 +24,11 @@ Der **Sinn der Maßnahme?** Manchmal braucht man kürzere Links, zum Beispiel in
 
 * Einfach den entpackten Ordner auf /wp-content/plugins/ hochladen und aktivieren.
 
-== Change log ==
+== Changelog ==
+
+= 1.0.2 (18. Juni 2017) =
+
+* kleinere Anpassungen an den readme-Dateien
 
 = 1.0.1 (18. Juni 2017) =
 
