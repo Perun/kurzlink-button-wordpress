@@ -4,7 +4,7 @@ Donate link: http://www.perun.net
 Tags: kurzlink, shortlink
 Requires at least: 4.4
 Tested up to: 4.8
-Stable Tag: 1.0.1
+Stable Tag: 1.0.3
 
 Zaubert den Kurzlink-Button oberhalb des Editors in WordPress wieder zurück
 
