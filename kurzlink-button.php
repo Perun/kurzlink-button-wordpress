@@ -6,7 +6,7 @@
  * Description: Dieses Plugin bringt den Kurzlink-Button oberhalb des Editors zurück
  * Author:      Vladimir Simović
  * Author URI:  https://www.vladimir-simovic.de
- * Version:     1.0.0
+ * Version:     1.0.3
  * Text Domain: kurzlink-button
  * License:     GPLv3
  */
